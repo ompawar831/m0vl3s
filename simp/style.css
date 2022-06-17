@@ -1,0 +1,37 @@
+.sim{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(235, 255, 123);
+    border:solid
+} 
+
+.sim{
+    justify-content: space-around;
+}
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(91, 217, 255);
+}
+
+body{
+    background-color: rgb(77, 204, 83);
+}
+
+
+.D{
+    display:flex ;
+}
+
+
+
+/* <a href=" https://youtu.be/EDE10UUnAzM "><img src="posters/rider.png"width=350 height=350/></a> */
+/* <a href=" https://youtu.be/QNoA9k5g8JQ "><img src="posters/eega 2.png"width=350 height=350/></a> */
+/* <a href=" https://youtu.be/le0WH02gazM "><img src="posters/talaash.png"width=350 height=350/></a> */
+/* <a href=" https://youtu.be/TsLZB-y7teQ "><img src="posters/kiran bedi.jpg"width=350 height=350/></a> */
+/* <a href=" https://youtu.be/wT8TlqTz4Eg "><img src="posters/SHYLOCK.png"width=350 height=350/></a> */
+/* <a href=" https://youtu.be/OCcheEvvdhQ "><img src="posters/janatha garage.png"width=350 height=350/></a> */
+/* <a href=" https://youtu.be/V9IWDANWh18 "><img src="posters/ACP KAALI.png"width=350 height=350/></a>  */

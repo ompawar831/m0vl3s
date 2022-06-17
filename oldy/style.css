@@ -1,0 +1,19 @@
+.header p{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    
+}
+
+.old{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(235, 255, 123);
+    border:solid
+}
+
+body{
+    background-color: aquamarine;
+}
+
